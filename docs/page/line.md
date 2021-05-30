@@ -4,6 +4,7 @@ description: Line | Disambiguation Page
 permalink: /line
 ---
 ## Line (曖昧さ回避)
+このページは曖昧さ回避のためのページです。一つのリンクが複数のリンク先を有する場合の水先案内のために、複数のリンクを一覧にしてあります。お探しのリンクを選んで下さい。
 
 * Line(@???) 非公開
 * [Line Timeline(ID: _devsn0hzAbBlgdczhYlAfA1BbLnh4dsxhEQ7nY8)](https://links.neko7sora.jp/line-timeline)
