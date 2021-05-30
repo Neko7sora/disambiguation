@@ -12,3 +12,7 @@ exclude:
 - ".gitkeep"
 
 theme: jekyll-theme-cayman
+
+title: 曖昧さ回避 - Neko7sora
+description: このページは曖昧さ回避のためのページです。一つのリンクが複数のリンク先を有する場合の水先案内のために、複数のリンクを一覧にしてあります。お探しのリンクを選んで下さい。
+show_downloads: false
