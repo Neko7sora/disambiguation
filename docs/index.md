@@ -1,6 +1,5 @@
 ---
 title: 曖昧さ回避 - Neko7sora
-permalink: /
 description: Disambiguation Page
 ---
 ## 曖昧さ回避
